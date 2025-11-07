@@ -22,6 +22,8 @@
 )
 ![Devtools](https://img.shields.io/badge/-devtools-090909?style=for-the-badge&logo=devtools&logoColor=white
 )
+![Figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma&logoColor=red
+)
 
 ## Follow me
 
