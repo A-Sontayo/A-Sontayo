@@ -30,4 +30,4 @@
 [![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=blue
 )](https://www.linkedin.com/in/sontayo)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Sontayo&hide=stars,contribs&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Sontayo&show_icons=true&theme=transparent&hide=stars,contribs)](https://github.com/A-Sontayo/github-readme-stats)
