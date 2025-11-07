@@ -25,4 +25,4 @@
 
 ## Follow me
 [![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=blue
-)](www.linkedin.com/in/sontayo)
+)](https://www.linkedin.com/in/sontayo)
