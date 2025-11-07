@@ -4,4 +4,23 @@
 
 Languages and Tools
 
+![Github](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=white
+)
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=orange
+)
+![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=blue
+)
+![Swagger](https://img.shields.io/badge/-swagger-090909?style=for-the-badge&logo=swagger&logoColor=green
+)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-090909?style=for-the-badge&logo=AndroidStudio&logoColor=green
+)
+![Jenkins](https://img.shields.io/badge/-Jenkins-090909?style=for-the-badge&logo=Jenkins&logoColor=red
+)
+![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=TestRail&logoColor=white
+)
+![AZUREDEVOPS](https://img.shields.io/badge/-Azuredevops-090909?style=for-the-badge&logo=azure&logoColor=blue
+)
+![Devtools](https://img.shields.io/badge/-devtools-090909?style=for-the-badge&logo=devtools&logoColor=white
+)
+
 Follow me
