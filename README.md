@@ -22,10 +22,13 @@
 )
 ![Devtools](https://img.shields.io/badge/-devtools-090909?style=for-the-badge&logo=devtools&logoColor=white
 )
+![Figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma&logoColor=red
+)
 
 ## Follow me
+
 [![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=blue
 )](https://www.linkedin.com/in/sontayo)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Sontayo&hide=stars,contribs&show_icons=true&theme=transparent)](https://github.com/A-Sontayo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Sontayo&show_icons=true&theme=transparent&hide=stars,contribs)](https://github.com/A-Sontayo/github-readme-stats)
