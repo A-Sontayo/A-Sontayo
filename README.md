@@ -65,4 +65,4 @@ Khmelnytskyi National University, Bachelor of Computer Science, 2020-2024
 )](https://www.linkedin.com/in/sontayo)
 
 
-[![Sontayo GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Sontayo&show_icons=true&theme=transparent)](https://github.com/A-Sontayo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Sontayo&show_icons=true&theme=transparent)](https://github.com/A-Sontayo/github-readme-stats)
