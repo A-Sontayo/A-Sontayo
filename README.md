@@ -2,7 +2,7 @@
 
 ## Manual QA Engineer with strong attention to detail and a passion for improving software quality. Skilled in writing test cases, working with requirements, and exploring software from a user-centric perspective. Motivated to grow, learn new tools, and contribute to high-quality product delivery.
 
-## Languages and Tools
+## Tools
 
 ![Github](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=white
 )
@@ -26,7 +26,6 @@
 ## Follow me
 [![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=blue
 )](https://www.linkedin.com/in/sontayo)
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=blue
-)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Sontayo&hide=stars,contribs&show_icons=true&theme=transparent)](https://github.com/A-Sontayo/github-readme-stats)
