@@ -53,7 +53,7 @@ Proficient in using DevTools for analyzing network requests, validating client-s
 
 - Testing Types: Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, Usability Testing, Cross-Browser Testing, API Testing (fundamental level).
 - Databases: SQL (Basic proficiency in running SELECT queries to verify data persistence and integrity).
-- Programming Basics (if applicable): (e.g., Python/Java/JavaScript basics ).
+- Programming Basics: (e.g., Python/Java/JavaScript basics ).
 
 ## Education & Certifications
 
