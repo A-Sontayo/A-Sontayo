@@ -3,13 +3,11 @@
 ## Junior Manual QA Engineer eager to launch a career in software quality assurance. Possessing a solid foundational understanding of the Software Testing Life Cycle (STLC) and core testing methodologies. Highly motivated and detail-oriented, with practical skills in test case creation, checklist development, and precise defect reporting (bug reports). Actively building technical proficiency in API testing (Postman) and committed to exploring software from a user-centric perspective. Seeking a challenging environment to grow and apply testing principles to deliver high-quality products.
 
 ## Projects & Work Samples
-[Test Documentation]()
-
-[API Testing (Postman/Swagger)]()
-
-[Defect Reporting (Bug Reports)]()
-
-[UI/UX Testing]()
+- [Test Documentation]()
+- [Manual-testing]()
+- [API Testing (Postman/Swagger)]()
+- [Defect Reporting (Bug Reports)]()
+- [UI/UX Testing]()
 
 ## Tools
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=orange
