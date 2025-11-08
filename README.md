@@ -31,4 +31,4 @@
 )](https://www.linkedin.com/in/sontayo)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Sontayo&show_icons=true&theme=transparent&hide=stars,contribs)](https://github.com/A-Sontayo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Sontayo&show_icons=true&theme=transparent)](https://github.com/A-Sontayo/github-readme-stats)
